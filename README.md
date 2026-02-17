@@ -139,7 +139,7 @@ How to Run the Project
 
 Clone the repository:
 
-git clone https://github.com/yourusername/house-price-prediction.git
+git clone https://github.com/divyajagtap28/house-price-prediction.git
 
 
 Install dependencies:
